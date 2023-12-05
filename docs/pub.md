@@ -2,7 +2,15 @@
 title: Publication
 layout: home
 ---
-**Yujuan Ding**
+**Conference and Journals**
+
+- **Yujuan Ding**, Zhihui Lai, P.Y. Mok, Tat-Seng Chua
+Computational Technologies for Fashion Recommendation: A Survey
+in ACM Computing Survey, 2023
+
+- **Yujuan Ding**, P.Y. Mok, Yi Bin, Xun Yang, Zhiyong Cheng
+Modeling Multi-Relational Connectivity for Personalized Fashion Matching
+in ACM International Conference on Multimedia (ACM MM), 2023
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
