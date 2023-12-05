@@ -1,6 +1,6 @@
 ---
 title: Publication
-layout: default
+layout: home
 ---
 **Yujuan Ding**
 
